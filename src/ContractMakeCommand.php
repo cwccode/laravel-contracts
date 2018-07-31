@@ -1,6 +1,6 @@
 <?php
 
-namespace App\Console\Commands;
+namespace CwcCode\LaravelContracts;
 
 use Illuminate\Console\GeneratorCommand;
 use Symfony\Component\Console\Input\InputOption;
