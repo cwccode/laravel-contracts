@@ -1,0 +1,6 @@
+    /**
+     * METHOD.
+     *
+     * @return void
+     */
+    public function METHOD();

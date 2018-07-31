@@ -1,0 +1,30 @@
+{
+    "name": "cwccode/laravel-contracts",
+    "description": "A Laravel artisan command to make interfaces",
+    "keywords": ["laravel", "artisan", "command", "interface", "contract", "make"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Ben Connor",
+            "email": "connorwebcon@gmail.com"
+        }
+    ],
+    "require": {
+        "laravel/framework": ">=5.0"
+    },
+    "require-dev": {
+        "roave/security-advisories": "dev-master"
+    },
+    "autoload": {
+        "psr-4": {
+            "CwcCode\\LaravelContracts\\": "src/"
+        }
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "CwcCode\\LaravelContracts\\LaravelContractsServiceProvider"
+            ]
+        }
+    }
+}
