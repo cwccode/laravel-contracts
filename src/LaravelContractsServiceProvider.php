@@ -2,7 +2,6 @@
 
 namespace CwcCode\LaravelContracts;
 
-use App\Console\Commands\ContractMakeCommand;
 use Illuminate\Support\ServiceProvider;
 
 class LaravelContractsServiceProvider extends ServiceProvider
