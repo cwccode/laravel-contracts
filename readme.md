@@ -1,3 +1,7 @@
+:warning: **This package has been abandonned.**
+
+I can't promise it will get baked into [Laravel](https://github.com/laravel/framework), but it has popped up on [Taylor Otwell's radar](https://twitter.com/taylorotwell/status/1440364082037592068), so it could happen 🤞
+
 # Laravel Contract Command
 
 `cwccode/laravel-contracts` is a package that adds a `make:contract` command to Laravel, to create interfaces for your application.
